@@ -14,7 +14,7 @@ const ChatSidebar = ({ onNewChat }: ChatSidebarProps) => {
           <Sparkles className="w-4 h-4 text-primary-foreground" />
         </div>
         <h1 className="font-display text-lg font-semibold text-foreground tracking-tight">
-          Gemini
+          Elevate AI
         </h1>
       </div>
 
